@@ -8,10 +8,8 @@
 
 <p align="center">
   <a href="#sobre">Sobre</a>♙
-  <a href="#roadmap">Roadmap</a>♙
   <a href="#Tecnologias">Tecnologias utilizadas</a>♙
   <a href="#pre-requisitos">Pré Requisitos</a>♙
-  <a href="#licenca">Licença</a>♙
   <a href="#autores">Autores</a>♙
 </p>
 
