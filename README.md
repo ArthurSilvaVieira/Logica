@@ -7,9 +7,9 @@
 <p align="center"> Aqui você encontrará um projeto que simula o pregão da bolsa de valores. Denominamos o projeto como B4, em prol de fazer uma brincadeirinha, já que a bolsa de valores braasileira é a B3. </p>
 
 <p align="center">
-  <a href="#sobre">Sobre</a>
-  <a href="#roadmap">Roadmap</a>
-  <a href="#Tecnologias utilizadas">Tecnologias utilizadas</a>
+  <a href="#sobre">Sobre</a>.
+  <a href="#roadmap">Roadmap</a>.
+  <a href="#Tecnologias utilizadas">Tecnologias utilizadas</a>.
   <a href="#pre-requisitos">Pré Requisitos</a>.
   <a href="#licenca">Licença</a>.
   <a href="#autores">Autores</a>
