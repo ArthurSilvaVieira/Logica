@@ -41,7 +41,7 @@ As sequintes ferramentas foram usadas na construção do projeto:
 > :construction: Projeto em construção :construction:
 
 ### Pré Requisitos 
-Antes de tudo você vai precisar ter às seguintes plataformas no seu computador [GitHub] (https://github.com/) e o [IntelliJ IDEA](https://www.jetbrains.com/idea/). Seria bom também ter o [Maven](https://maven.apache.org/). 
+Antes de tudo você vai precisar ter às seguintes plataformas no seu computador [GitHub](https://github.com/) e o [IntelliJ IDEA](https://www.jetbrains.com/idea/). Seria bom também ter o [Maven](https://maven.apache.org/). 
 
 ```bash 
 
