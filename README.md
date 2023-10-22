@@ -9,7 +9,7 @@
 <p align="center">
   <a href="#sobre">Sobre</a>♙
   <a href="#Tecnologias">Tecnologias utilizadas</a>♙
-  <a href="#pré-requisitos">Pré-requisitos</a>♙
+  <a href="#Pré-requisitos">Pré-requisitos</a>♙
   <a href="#autores">Autores</a>♙
 </p>
 
