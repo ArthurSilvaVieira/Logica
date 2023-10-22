@@ -19,7 +19,8 @@
 
 # Sobre
 
- <h1>Em nosso projeto as aplicações permitem cadastrar o  investidor, a carteira, a corretora, os ativos, a bolsa, o custodiante, o historico e as ordens de compra e venda. O código foi feito em java.</h1>
+ <p>Em nosso projeto as aplicações permitem cadastrar o  investidor, a carteira, a corretora, os ativos, a bolsa, o custodiante, o historico e as ordens de compra e venda. Todo o código 
+  foi feito em java.</p>
 
 
 
