@@ -18,7 +18,6 @@
 As sequintes ferramentas foram usadas na construção do projeto:
 - [Java](https://www.java.com/pt-BR/)
 - [IntelliJ IDEA Community Edition](https://www.jetbrains.com/idea/download/?section=windows)
-<h1> </h1>
 
 # Autores
 
