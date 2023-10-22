@@ -9,7 +9,7 @@
 <p align="center">
   <a href="#sobre">Sobre</a>♙
   <a href="#roadmap">Roadmap</a>♙
-  <a href="# Tecnologias utilizadas">Tecnologias utilizadas</a>♙
+  <a href="#Tecnologias">Tecnologias utilizadas</a>♙
   <a href="#pre-requisitos">Pré Requisitos</a>♙
   <a href="#licenca">Licença</a>♙
   <a href="#autores">Autores</a>♙
@@ -23,7 +23,7 @@
 
 <h1> </h1>
 
-# Tecnologias utilizadas
+# Tecnologias
 As sequintes ferramentas foram usadas na construção do projeto:
 - [Java](https://www.java.com/pt-BR/)
 - [IntelliJ IDEA Community Edition](https://www.jetbrains.com/idea/download/?section=windows)
