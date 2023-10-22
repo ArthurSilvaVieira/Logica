@@ -46,11 +46,9 @@ Antes de tudo você vai precisar ter às seguintes plataformas no seu computador
 ```bash 
 
 # Como baixar GitHub
-
 $ git clone <https://docs.github.com/>
 
 # Como baixar o IntelliJ IDEA
-
 $ git clone <https://www.webmundi.com/>
 
 # Acesse a pasta terminal 
