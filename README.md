@@ -9,7 +9,7 @@
 <p align="center">
   <a href="#sobre">Sobre</a>♙
   <a href="#Tecnologias">Tecnologias utilizadas</a>♙
-  <a href="#Pre Requisitos">Pré Requisitos</a>♙
+  <a href="#Pré-requisitos">Pré Requisitos</a>♙
   <a href="#autores">Autores</a>♙
 </p>
 
@@ -31,7 +31,7 @@ As sequintes ferramentas foram usadas na construção do projeto:
   
 <h1> </h1>
 
-### Pré Requisitos 
+### Pré-requisitos 
 Antes de tudo você vai precisar ter às seguintes plataformas no seu computador [GitHub](https://github.com/) e o [IntelliJ IDEA](https://www.jetbrains.com/idea/). Seria bom também ter o [Maven](https://maven.apache.org/). 
 
 ```bash 
