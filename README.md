@@ -40,3 +40,21 @@ As sequintes ferramentas foram usadas na construção do projeto:
 
 > :construction: Projeto em construção :construction:
 
+### Pré Requisitos 
+Antes de tudo você vai precisar ter às seguintes plataformas no seu computador [GitHub(https://github.com/) e o [IntelliJ IDEA](https://www.jetbrains.com/idea/). Seria bom também ter o [Maven](https://maven.apache.org/). 
+
+```bash 
+
+# Como baixar GitHub
+
+$ git clone <https://docs.github.com/>
+
+# Como baixar o IntelliJ IDEA
+
+$ git clone <https://www.webmundi.com/>
+
+# Acesse a pasta terminal 
+
+# Instalar as dependências 
+
+``` 
