@@ -1,0 +1,36 @@
+<!DOCTYPE hibernate-configuration PUBLIC "-//Hibernate/Hibernate Configuration DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+
+    <session-factory>
+        <!-- Configurações de conexão com o banco de dados -->
+        <property name="hibernate.connection.driver_class">com.mysql.cj.jdbc.Driver</property>
+        <property name="hibernate.connection.url">jdbc:mysql://127.0.0.1:3306/Bolsa</property>
+        <property name="hibernate.connection.username">root</property>
+        <property name="hibernate.connection.password">Rayquaza 1</property>
+        <property name="hibernate.dialect">org.hibernate.dialect.MySQL8Dialect</property>
+
+
+        <!-- Configuração do dialeto do banco de dados -->
+        <property name="hibernate.dialect">org.hibernate.dialect.MySQL8Dialect</property>
+
+        <!-- Configurações de geração de código -->
+        <property name="hibernate.hbm2ddl.auto">update</property>
+
+        <!-- Configuração para mostrar o SQL no console -->
+        <property name="hibernate.show_sql">true</property>
+
+        <!-- Configuração do pool de conexões -->
+        <property name="hibernate.dbcp.initialSize">5</property>
+        <property name="hibernate.dbcp.maxTotal">20</property>
+        <property name="hibernate.dbcp.maxIdle">10</property>
+        <property name="hibernate.dbcp.minIdle">5</property>
+        <property name="hibernate.dbcp.maxWaitMillis">-1</property>
+
+        <!-- Configuração do pacote onde as classes serão geradas -->
+        <property name="hibernate.default_schema">C:\Users\Lider\IdeaProjects\Logica-main\src\main\java\Bolsa</property>
+
+        <!-- Configuração para criar classes de entidade a partir do banco de dados -->
+
+
+    </session-factory>
+</hibernate-configuration>
