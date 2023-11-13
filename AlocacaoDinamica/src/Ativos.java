@@ -76,11 +76,10 @@ public class Ativos {
         this.dtValorFinal = dtValorFinal;
     }
 
-    public Ativos(String ticker, Double cotacao, Double dtValorInicial, Double dtValorFinal) {
+    public Ativos(String ticker, Double cotacao, Double dtValorInicial, ) {
         this.ticker = ticker;
         this.cotacao = cotacao;
         this.dtValorInicial = dtValorInicial;
-        this.dtValorFinal = dtValorFinal;
     }
 
     @Override
